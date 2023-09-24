@@ -2,6 +2,8 @@
 
 `Kiosk Ticketing System`은 방문객 입장 및 관리를 위한 통합 시스템입니다. 이 시스템은 방문객의 입장 티켓 발권 및 관리자의 키오스크 관리 기능을 제공합니다.
 
+<br>
+
 ## Repositories
 
 ### 1. Kiosk Ticketing System for Visitor
@@ -10,11 +12,15 @@
 - **기술 스택**: Java, JavaFX, Eclipse, MariaDB, ZXing
 - **상태**: Private Repository (코드 접근 불가)
 
+<br>
+
 ### 2. Kiosk Ticketing System for Administrator
 
 - **설명**: 키오스크 관리 및 방문 통계 확인을 위한 관리자 프로그램입니다.
 - **기술 스택**: Java, JavaFX, Eclipse, MariaDB
 - **상태**: Private Repository (코드 접근 불가)
+
+<br>
 
 ## 문의
 
